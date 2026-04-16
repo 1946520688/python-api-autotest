@@ -1,0 +1,15 @@
+{
+  "login_success": {
+    "username": "test_user",
+    "password": "123456"
+  },
+  "login_fail": {
+    "username": "test_user",
+    "password": "wrong_password"
+  },
+  "register_data": {
+    "username": "new_user",
+    "password": "123456",
+    "email": "test@example.com"
+  }
+}
